@@ -1,4 +1,4 @@
-Here’s your text enhanced with emojis:
+
 
 
 
@@ -37,10 +37,10 @@ A simple todo app built with **Android** and **Jetpack Compose**.
 * ✅ Mark todo items as complete.  
 * 🗑️ Delete todo items.  
 * 👓 View completed todo items.  
-
+<!--
 ### **Screenshots:**  
 📸 [Include screenshots or GIFs here]  
-
+-->
 
 ## 🤝 **Contributing**  
 
