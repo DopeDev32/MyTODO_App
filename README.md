@@ -5,7 +5,7 @@ width="300" hspace="10" align="right">
 
  📝 **My Todo App**  
 
-A simple todo app built with **Android** and **Jetpack Compose**.  
+A simple todo app built with **Kotlin** and **Jetpack Compose**.  
 
 
 
