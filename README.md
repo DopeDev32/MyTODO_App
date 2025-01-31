@@ -13,7 +13,7 @@ A simple todo app built with **Kotlin** and **Jetpack Compose**.
 
  **Prerequisites:**  
 * 🛠️ **Android Studio**  
-* ☕ **Java Development Kit (JDK)**  
+* 👨‍💻 **Software Development Kit (JDK)**  
 
  **Installation:**  
 1️⃣ Clone the repository: `https://github.com/DopeDev32/MyTODO_App.git`  
