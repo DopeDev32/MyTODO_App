@@ -34,10 +34,9 @@ A simple todo app built with **Kotlin** and **Jetpack Compose**.
  📋 **Usage**  
 
  **Features:**  
-* ➕ Add new todo items.  
-* ✅ Mark todo items as complete.  
+* ➕ Add new todo items.    
 * 🗑️ Delete todo items.  
-* 👓 View completed todo items.  
+  
 <!--
 ### **Screenshots:**  
 📸 [Include screenshots or GIFs here]  
